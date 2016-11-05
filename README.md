@@ -2,4 +2,4 @@
 - http://greenpeace.com
 - http://www.projectforawesome.com/
 - http://www.seashepherd.org/
-- https://tnp.org/
+- Tibetan Nun Project https://tnp.org/
